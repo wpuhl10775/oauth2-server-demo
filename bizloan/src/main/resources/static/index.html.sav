@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<style>
+    a {
+        color: #ff0001;
+    }
+</style>
+<head>
+    <title>Page</title>
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+</head>
+<body>
+<div id="react"></div>
+
+<!--<script src="built/bundle.js"></script>-->
+
+<header class="w3-container w3-indigo">
+    <div class="w3-xxlarge">Biz-Loan - Connecting Small Business with Lenders
+        <a href="login.html" class="w3-btn w3-teal w3-large w3-round-xxlarge w3-right" style="margin-top: 8px">log in</a>
+    </div>
+</header>
+
+<div class="w3-container">
+    <div class="w3-container w3-left w3-border" style="width: 25%">
+        <p>
+        <ul><a href="">Clothing</a></ul>
+        <ul><a href="">Food and Dining</a></ul>
+        <ul><a href="">Health and Beauty</a></ul>
+        <ul><a href="">Home Services</a></ul>
+        <ul><a href="">Professional Services</a></ul>
+        </p>
+    </div>
+    <div class="w3-container w3-right w3-border" style="width: 75%">
+        <p>
+        <ul><a href="">Angelo's Restaurant</a></ul>
+        <ul><a href="">McDonald's</a></ul>
+        <ul><a href="">Burger King</a></ul>
+        </p>
+    </div>
+</div>
+
+<footer class="w3-container w3-blue">
+    <p>Iam id ipsum absurdum, maximum malum neglegi. Quae cum essent dicta, discessimus. Hanc ergo intuens debet institutum illud quasi signum absolvere. Deprehensus omnem poenam contemnet. Odium autem et invidiam facile vitabis. Uterque enim summo bono fruitur, id est voluptate. </p>
+</footer>
+</body>
+
+</html>
